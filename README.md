@@ -3,7 +3,7 @@ CRUD PROJECT USING PHP
 
 <h2>SQL QUERIES THAT USED IN THIS PROJECT:</h2>
 CREATE DATABASE employee_management_system;</br>
-
+</br>
 CREATE TABLE employees (</br>
     id INT AUTO_INCREMENT PRIMARY KEY,</br>
     name VARCHAR(100) NOT NULL,</br>
